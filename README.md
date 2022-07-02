@@ -6,7 +6,9 @@ You can copy paste the entire files, but there are too many of them. To save tim
 create a new react app in the same folder using the command 
 
 npx create-react-app my-app
+
 cd my-app
+
 npm start
 
 This will create and open the react app for you and you can change the files in src repacing these I have attached here 
